@@ -21,7 +21,7 @@ I love programming and I love Flutter.
 
 
 - Twitter: [![Twitter]([https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim](https://twitter.com/B_lancO98)) 
-![Git](https://github.com/mohamedahmed988)
+- Git :[!Git](https://github.com/mohamedahmed988)
 ![Gmail](https://myaccount.google.com/?tab=kk&hl=ar)
 ![facebook]([https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white](https://www.facebook.com/profile.php?id=100002521017580))
 ### My GitHub Stats
