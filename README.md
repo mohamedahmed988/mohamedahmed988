@@ -2,11 +2,10 @@
 
 ## Hey 👋, I'm Mohamed Ahmed
 
-Hi there, I'm **Mohamed Ahmed**, a **medical student**.
+Hi there, I'm **Mohamed Ahmed**, a **SoftWare Engineer <Flutter Developer>**.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
-I love programming and I love Swift.
+I love programming and I love Flutter.
 
 ### Talking about Personal Stuffs:
 
